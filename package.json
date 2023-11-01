@@ -1,5 +1,5 @@
 {
-  "name": "remix-vite-redirect-set-cookie",
+  "name": "remix-vite-redirect",
   "private": true,
   "sideEffects": false,
   "type": "module",
@@ -19,6 +19,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.3.3",
     "@remix-run/dev": "^2.2.0",
     "@remix-run/eslint-config": "^2.2.0",
     "@types/react": "^18.2.20",
